@@ -1,7 +1,4 @@
-<video width="100%" controls>
-  <source src="https://tatvatech.com/images/motion-trail.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Demo Video](https://tatvatech.com/images/motion-trail.mp4)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
